@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/test-iframe-8thwall/static/css/main.0bf1c1b5.chunk.css",
+    "main.css": "/test-iframe-8thwall/static/css/main.9dc239f2.chunk.css",
     "main.js": "/test-iframe-8thwall/static/js/main.a58c1958.chunk.js",
     "main.js.map": "/test-iframe-8thwall/static/js/main.a58c1958.chunk.js.map",
     "runtime-main.js": "/test-iframe-8thwall/static/js/runtime-main.5a350785.js",
@@ -8,13 +8,13 @@
     "static/js/2.eb520e59.chunk.js": "/test-iframe-8thwall/static/js/2.eb520e59.chunk.js",
     "static/js/2.eb520e59.chunk.js.map": "/test-iframe-8thwall/static/js/2.eb520e59.chunk.js.map",
     "index.html": "/test-iframe-8thwall/index.html",
-    "static/css/main.0bf1c1b5.chunk.css.map": "/test-iframe-8thwall/static/css/main.0bf1c1b5.chunk.css.map",
+    "static/css/main.9dc239f2.chunk.css.map": "/test-iframe-8thwall/static/css/main.9dc239f2.chunk.css.map",
     "static/js/2.eb520e59.chunk.js.LICENSE.txt": "/test-iframe-8thwall/static/js/2.eb520e59.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.5a350785.js",
     "static/js/2.eb520e59.chunk.js",
-    "static/css/main.0bf1c1b5.chunk.css",
+    "static/css/main.9dc239f2.chunk.css",
     "static/js/main.a58c1958.chunk.js"
   ]
 }
