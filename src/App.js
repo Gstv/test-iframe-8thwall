@@ -1,6 +1,9 @@
+import './App.css';
+
 function App() {
   return (
     <>
+      <h3>DESÇA A PÁGINA INTEIRA PARA TESTAR O AR</h3>
       <div>
         Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nihil numquam ipsum qui totam officiis velit quos, molestias esse possimus iure ad suscipit eligendi officia quidem voluptate maiores veniam doloremque autem.
         A aut, esse laudantium impedit voluptatum in fugiat? Nemo eum harum beatae omnis in. Laborum dolore, dolorum cupiditate quisquam reprehenderit corporis facilis perspiciatis minus sint iste quasi velit molestias aut!
@@ -35,7 +38,7 @@ function App() {
       </div>
 
       <h3>Este AR é LINDINHO</h3>
-      <iframe src="https://venosa.8thwall.app/teste-iframe" title="ashuahsuas"></iframe>
+      <iframe src="https://venosa.8thwall.app/teste-iframe" title="ashuahsuas" allow="camera;microphone;gyroscope;accelerometer;" frameborder="0" scrolling="no"></iframe>
     </>
   );
 }
